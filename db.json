@@ -11,4 +11,9 @@
   "profile": {
     "name": "typicode"
   }
+  "test": {
+    "id": "typicode",
+    "kills": "typicode",
+    "topThreeWeapons": "typicode"
+  }
 }
