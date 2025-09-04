@@ -12,8 +12,9 @@
     "name": "typicode"
   }
   "test": {
-    "id": "typicode",
-    "kills": "typicode",
-    "topThreeWeapons": "typicode"
+  "playerName": "Southclaws",
+  "score": 1500,
+  "isAdmin": true,
+  "weapons": ["M4", "Deagle", "Shotgun"]
   }
 }
